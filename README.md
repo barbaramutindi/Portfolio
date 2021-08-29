@@ -10,12 +10,12 @@ This is my portfolio website. It contains details about me, projects i have done
 
 ## Live link
 
-- 
+- https://barbaramutindi.github.io/Portfolio/
 
 ## Setup/Installation Requirements
 
 - Open terminal (CTRL ALT T)
-- git clone 
+- git clone https://barbaramutindi.github.io/Portfolio/
 - cd my portfolio
 - easy-to-understand
 - use atom . or code . to open the clone repo on Atom or VS-code respectively
